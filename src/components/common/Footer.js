@@ -3,7 +3,7 @@ export function Footer() {
   return (
     <footer>
       <div>
-        <p>Copyright @ Mindtree</p>
+        <p>Copyright - Siddhardha Maguluri: Mindtree</p>
       </div>
     </footer>
   );
